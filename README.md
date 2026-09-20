@@ -6,7 +6,7 @@
 - **Section:** B
 - **Reg No:** 2025_APC_75
 - **Submitted To:** Mr. Moaz
-- **University:** University of Engineering and Technology
+- **University:** University of Engineering and Technology, lahore
 
 ## About
 This repository contains my analysis of a Food Delivery System (e.g., Foodpanda). It covers purpose, users, stakeholders, functional and non-functional requirements, risks, quality attributes, and the use of AI in the system.
